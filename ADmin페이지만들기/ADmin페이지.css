@@ -1,0 +1,15 @@
+.btn {  
+    float: right;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+    border: 0px solid rgb(251, 249, 249);
+  }
+p {
+    color: red;
+}

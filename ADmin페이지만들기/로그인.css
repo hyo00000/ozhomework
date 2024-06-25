@@ -1,0 +1,44 @@
+table{
+    width: 200px;
+    height: 250px;
+    margin: auto;
+    font-size: 15px;
+}
+input[type="text"], input[type="password"] {
+    width: 280px;
+    height: 100px;
+    margin: auto;
+    font-size: 15px;
+    border: 0;
+    border-radius: 15px;
+    outline: none;
+    padding-left: 10px;
+    background-color: #eff7fab4
+}
+.btn {
+    width: 270px;
+    height: 35px;
+    font-size: 15px;
+    border: 0;
+    border-radius: 15px;
+    outline: none;
+    padding-left: 10px;
+    background-color: #ea5713
+}
+.btn:active{
+    width: 270px;
+    height: 35px;
+    font-size: 15px;
+    border: 0;
+    border-radius: 15px;
+    outline: none;
+    padding-left: 10px;
+    background-color: #ea5713
+}
+a {
+    font-size: 15px;
+    color: #23bdffb4
+}
+.join{
+    text-align: center;
+}
